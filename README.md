@@ -40,3 +40,11 @@ The server sends the data back, usually in **JSON**(Java script object notation)
 - ![Ubuntu Screenshot](./Ubuntu1.jpeg)
 ![Ubuntu Screenshot](./Ubuntu2.jpeg)
 ![Ubuntu Screenshot](./ubuntu3.jpeg)
+
+# Task 7:Create a portfolio webpage
+
+I created a simple website using the knowledge I have of **HTML** and **CSS**.  
+This project allowed me to practice structuring web pages with HTML and styling them with CSS.  
+
+![Webpage](./)
+
