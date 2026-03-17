@@ -19,3 +19,4 @@ The server gets your request, checks who you are, and looks in its database to f
 
 **The Response:**  
 The server sends the data back, usually in **JSON**(Java script object notation) format. JSON is just text that is easy for computers to read.
+weather_app.png
