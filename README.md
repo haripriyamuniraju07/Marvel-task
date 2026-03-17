@@ -57,7 +57,5 @@ As part of the assignment, a technical article was written on the topic **"Robot
 - Successfully created a well-structured technical article using Markdown  
 - Gained a better understanding of both Markdown formatting and basic robotics concepts  
 - Improved technical writing and documentation skills  
-
-
-
-
+# Link to my article:
+[Link Text](https://github.com/haripriyamuniraju07/Robotic-dog)
