@@ -5,7 +5,7 @@
 - Study the **working mechanism of APIs**, including request, response, and data exchange.
 - Design and develop a **user interface (web or mobile app)** that makes API calls and displays the retrieved data effectively.
 
-**API stands for Application Programming Interface.**It acts as a bridge between different software applications.
+API stands for Application Programming Interface.It acts as a bridge between different software applications.
 ## How an API Works
 
 **The Request:**  
