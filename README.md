@@ -37,6 +37,6 @@ The server sends the data back, usually in **JSON**(Java script object notation)
 - Created a blank file without using any text editor.
 - Listed the files in the folder to verify the blank file.
 - Created 2600 folders in the folder, each named like `M90` or `B56`.
-- ![Ubuntu Screenshot](./Ubuntu1.png)
-![Ubuntu Screenshot](./Ubuntu2.png)
-![Ubuntu Screenshot](./Ubuntu3.png)
+- ![Ubuntu Screenshot](./Ubuntu1.jpeg)
+![Ubuntu Screenshot](./Ubuntu2.jpeg)
+![Ubuntu Screenshot](./ubuntu3.jpeg)
