@@ -21,3 +21,17 @@ The server gets your request, checks who you are, and looks in its database to f
 The server sends the data back, usually in **JSON**(Java script object notation) format. JSON is just text that is easy for computers to read.
 
 ![Weather App Screenshot](./weather_app.png)
+# Task 4: Command line on ubuntu
+# Objectives
+
+- Create a folder named `test`.
+- Change directory into that folder.
+- Create a blank file without using any text editor.
+- List the files in that folder.
+- Create 2600 folders in this folder, where each folder is named like `M90` or `B56`.
+  
+- Created a folder named `test`.
+- Changed directory into the `test` folder.
+- Created a blank file without using any text editor.
+- Listed the files in the folder to verify the blank file.
+- Created 2600 folders in the folder, each named like `M90` or `B56`.
