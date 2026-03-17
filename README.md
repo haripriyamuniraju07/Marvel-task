@@ -59,3 +59,8 @@ As part of the assignment, a technical article was written on the topic **"Robot
 - Improved technical writing and documentation skills  
 # Link to my article:
 [Link Text](https://github.com/haripriyamuniraju07/Robotic-dog)
+# Objective:
+The objective of this project is to design and simulate circuits in Tinkercad that demonstrate the use of an ultrasonic sensor for distance measurement and object detection. 
+# Report:
+In this task, I learned about Tinkercad, which is an online platform used for 3D design, electronics simulation, and coding. It is beginner-friendly and helps in understanding basic concepts of design and circuits.
+I successfully signed up on the Tinkercad platform by creating a new account.
