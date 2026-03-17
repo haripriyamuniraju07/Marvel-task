@@ -54,7 +54,6 @@ To write a resource article in markdown
 # Report :
 As part of the assignment, a technical article was written on the topic **"Robotic Dog"** using Markdown. The goal was to understand how Markdown can be used to structure and present technical content clearly without using complex tools or HTML.
 # Outcome :
-## 📊 Outcome
 - Successfully created a well-structured technical article using Markdown  
 - Gained a better understanding of both Markdown formatting and basic robotics concepts  
 - Improved technical writing and documentation skills  
