@@ -66,5 +66,5 @@ As part of the assignment, a technical article was written on the topic **"Robot
 The objective of this task is to design and simulate circuits in Tinkercad that demonstrate the use of an ultrasonic sensor for distance measurement and object detection. 
 # Report:
 In this task, I learned about Tinkercad, which is an online platform used for 3D design, electronics simulation, and coding. It is beginner-friendly and helps in understanding basic concepts of design and circuits.
-I successfully signed up on the Tinkercad platform by creating a new account.And built a simple radar system using an ultrasonic sensor that detects objects and displays distance.
-
+I successfully signed up on the Tinkercad platform by creating a new account.And built a simple radar system using an ultrasonic sensor that detects objects and displays distance
+![Ultrasonic sensor](./Ultrasonic sensor.jpeg)
