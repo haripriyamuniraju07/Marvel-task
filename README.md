@@ -71,3 +71,6 @@ I successfully signed up on the Tinkercad platform by creating a new account.And
 ![Ultrasonic sensor](./Ultrasonic.jpeg)
 
 # Task 10: Speed control of DC motor
+# Objective:
+The objective of this task is to explore and implement basic techniques for controlling DC motors using an Arduino UNO and the L298N H-Bridge motor driver. 
+
