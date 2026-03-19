@@ -73,4 +73,20 @@ I successfully signed up on the Tinkercad platform by creating a new account.And
 # Task 10: Speed control of DC motor
 # Objective:
 The objective of this task is to explore and implement basic techniques for controlling DC motors using an Arduino UNO and the L298N H-Bridge motor driver. 
+# Report :
+Basic techniques to control DC motor using L298N motor driver
+# 1. Direction Control (H-Bridge)
+
+- Used to rotate motor **forward or backward**
+- Achieved using an **H-Bridge circuit** (like L298N)
+**Concept:**
+- IN1 HIGH, IN2 LOW → Forward  
+- IN1 LOW, IN2 HIGH → Reverse  
+- Both same → Stop  
+**3. Speed Control using PWM (Pulse Width Modulation)**
+- Controls motor speed by varying voltage effectively  
+- Done using Arduino PWM pins  
+**Concept:**
+- Higher duty cycle → Faster motor  
+- Lower duty cycle → Slower motor  
 
