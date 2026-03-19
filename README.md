@@ -63,7 +63,7 @@ In this task, I explored the given GitHub repository and read the README file. I
 I created a simple website using the knowledge I have of **HTML** and **CSS**.  
 This project allowed me to practice structuring web pages with HTML and styling them with CSS.  
 
-![Webpage](./)
+![Webpage](./Web.png)
 
 # Task 8: Writing resource article using markdown
 # Objective :
