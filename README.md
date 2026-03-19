@@ -98,8 +98,8 @@ Basic techniques to control DC motor using L298N motor driver
  ## Working:
 - The Arduino sends digital signals to the motor driver.
 - The motor driver controls:
-- Direction by switching polarity
-- Speed using PWM (Pulse Width Modulation)
+  Direction by switching polarity
+  Speed using PWM (Pulse Width Modulation)
 - The regulated power supply ensures a constant voltage, allowing smooth motor operation.
  
 
