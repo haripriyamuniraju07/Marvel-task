@@ -294,9 +294,16 @@ VR replaces the real world completely, whereas AR enhances the real world by add
 
 These companies are contributing to AR/VR development in areas like training, gaming, e-commerce, and industrial applications.
 
-### 6. Advantages and Challenges
-#### Advantages
+### 6. Advantages
 - Immersive and interactive experience  
 - Safe simulation for training  
 - Better understanding through visualization  
-- High user engagement  
+- High user engagement
+
+  ### 7.Challenges
+  - High hardware cost – devices are expensive and not widely accessible.
+- Technical limitations – battery life, processing power, connectivity issues.
+- Health concerns – motion sickness, eye strain, physical safety risks.
+- Privacy & security – constant tracking, data collection, surveillance risks.
+- Content limitations – fewer apps, lack of standardization, fragmented platforms.
+- Usability issues – steep learning curve, sometimes unintuitive interfaces.
