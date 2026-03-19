@@ -118,4 +118,8 @@ The objective of this task is to gain hands-on familiarity with soldering equipm
 
 Soldering is the process of joining two or more metal surfaces using a filler metal (called solder) that melts at a lower temperature than the base metals, creating a durable electrical or mechanical bond.I learned about soldering tools such as the soldering iron, solder wire, flux, and soldering wick. Under supervision, I performed basic soldering on a perf board.
 ![Soldering](./Soldering.jpeg)
-
+# Task 13: 555
+## Objective
+To design and implement a 555 timer–based astable multivibrator circuit with a duty cycle of 60%.
+## Report:
+In this task, a 555 timer IC was used to design an astable multivibrator circuit that generates a continuous square wave output. The circuit was assembled on a breadboard using appropriate values of resistors and a capacitor to achieve a duty cycle close to 60%. The connections were made according to the standard astable configuration .The duty cycle was controlled by selecting suitable resistor values. The circuit functioned successfully, producing a stable waveform with the desired duty cycle. This task helped in understanding the working of the 555 timer in astable mode and its practical applications.
