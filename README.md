@@ -102,5 +102,5 @@ Basic techniques to control DC motor using L298N motor driver
   Speed using PWM (Pulse Width Modulation)
 - The regulated power supply ensures a constant voltage, allowing smooth motor operation.
  
-
+[Click to watch video](./DC_MOTOR.mp4)
 
