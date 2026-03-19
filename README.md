@@ -144,3 +144,38 @@ In this task, a 555 timer IC was used to design an astable multivibrator circuit
 ![555](./5551.jpeg)
 ![555](./5552.jpeg)
 
+# Task 14:K map:
+# **Burglar Alarm using Logic Circuits**
+
+## **Objective**
+To design a burglar alarm system using logic gates by analyzing door and key conditions using a Karnaugh map.
+
+## **Truth Table**
+
+Let:  
+- **D = Door (1 = Open, 0 = Closed)**  
+- **K = Key (1 = Pressed, 0 = Not Pressed)**  
+- **A = Alarm (1 = ON, 0 = OFF)**  
+
+| D | K | A |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+## **Karnaugh Map**
+
+| D\K | 0 | 1 |
+|-----|---|---|
+| 0   | 0 | 0 |
+| 1   | 1 | 0 |
+
+## **Simplified Expression**
+
+A = D · K̅
+## **Report**
+In this task, I designed a burglar alarm system using logic gates. I first created a truth table based on door and key conditions. Then, I used a Karnaugh map to simplify the Boolean expression. The simplified result showed that the alarm turns ON only when the door is open and the key is not pressed.  
+
+Using this expression, I built the circuit with an AND gate and a NOT gate. Push buttons were used as inputs for door and key conditions, and an LED or buzzer was used as output. The circuit was tested and worked correctly. This experiment helped me understand how K-maps simplify logic design and their use in real-life applications.
+
