@@ -144,7 +144,7 @@ In this task, a 555 timer IC was used to design an astable multivibrator circuit
 ![555](./5551.jpeg)
 ![555](./5552.jpeg)
 
-# Task 14:K map:
+# Task 14: K map
 # **Burglar Alarm using Logic Circuits**
 
 ## **Objective**
