@@ -58,6 +58,12 @@ In this task, I explored the given GitHub repository and read the README file. I
 ![Ubuntu Screenshot](./Ubuntu2.jpeg)
 ![Ubuntu Screenshot](./ubuntu3.jpeg)
 
+
+# Task 06 - The Matrix Puzzle — Decode with NumPy & Reveal the Image
+## Objective:
+The objective of this task is to understand how NumPy can be used to manipulate matrices and decode a scrambled matrix to reveal a hidden image using visualization with Matplotlib.
+![Numpy](./Numpy.jpeg)
+
 # Task 7:Create a portfolio webpage
 
 I created a simple website using the knowledge I have of **HTML** and **CSS**.  
