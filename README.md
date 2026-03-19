@@ -87,6 +87,6 @@ Basic techniques to control DC motor using L298N motor driver
 - Controls motor speed by varying voltage effectively  
 - Done using Arduino PWM pins  
 ## **Concept:**
-- Higher duty cycle → Faster motor  
+- Higher duty cycle(The duty cycle is the percentage of time a signal stays ON (active/high) compared to the total time of one cycle) → Faster motor  
 - Lower duty cycle → Slower motor  
 
