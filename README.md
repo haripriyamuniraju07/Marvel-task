@@ -179,3 +179,51 @@ In this task, I designed a burglar alarm system using logic gates. I first creat
 
 Using this expression, I built the circuit with an AND gate and a NOT gate. Push buttons were used as inputs for door and key conditions, and an LED or buzzer was used as output. The circuit was tested and worked correctly. This experiment helped me understand how K-maps simplify logic design and their use in real-life applications.
 
+# Task 15 : Active participation:
+![Certificate](./Certificate.jpeg)
+
+# Task 16: Datasheet Report writing
+# L293D Motor Driver – Report
+
+## Objective
+To study the datasheet of the L293D motor driver IC and understand its working, internal structure, and concepts such as PWM and H-Bridge used in motor control.
+## Introduction
+The L293D is a motor driver integrated circuit (IC) used to control DC motors. It acts as an interface between low-power devices like microcontrollers and high-power motors.
+It can:
+- Control direction of rotation
+- Control speed of motors.
+## IC Description
+The L293D is a **quadruple half-H driver IC**, which means:
+- It has 4 driver circuits
+- It can control 2 DC motors
+
+### Key Features:
+- Operating voltage: 4.5V to 36V
+- Output current: up to 600 mA per channel
+- Built-in flyback diodes
+- Separate logic and motor power supply
+## H-Bridge Concept
+An H-Bridge is a circuit that allows a motor to rotate in both directions.
+
+### Working:
+- Uses 4 switches (S1, S2, S3, S4)
+- Different combinations control direction:
+  - S1 & S4 ON → Forward rotation
+  - S2 & S3 ON → Reverse rotation
+In L293D, the H-Bridge is internally implemented.
+## PWM (Pulse Width Modulation)
+PWM is a method used to control motor speed.
+### Working:
+- Motor is supplied with pulses instead of constant voltage
+- Speed depends on duty cycle:
+  - Higher duty cycle → Higher speed
+  - Lower duty cycle → Lower speed
+In L293D:
+- PWM is applied to the Enable pin
+## Working of L293D
+1. Input pins receive signals from microcontroller
+2. Internal H-Bridge processes the signals
+3. Output pins drive the motor
+4. Enable pin controls motor ON/OFF and speed using PWM.
+The L293D motor driver IC simplifies motor control by integrating H-Bridge circuits and supporting PWM for speed control. It is widely used due to its simplicity and effectiveness.
+   ![L293](./L293.jpeg)
