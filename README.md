@@ -1,6 +1,6 @@
 # Marvel-task
 
-# Task 1: 3D Printer:
+# Task 1: 3D Printer
  ## Objective:
 To understand the working of a 3D printer, learn about STL files, slicing software, and important printer settings.
 
