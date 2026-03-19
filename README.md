@@ -18,7 +18,7 @@ Finally, I went through the standard operating procedures (SOPs) for safely usin
 - Design and develop a **user interface (web or mobile app)** that makes API calls and displays the retrieved data effectively.
 
 API stands for Application Programming Interface.It acts as a bridge between different software applications.
-## How an API Works
+## How an API Works?
 
 **The Request:**  
 The client sends a message to a URL (the Endpoint). This request has a **Method** like `GET` to get data or `POST` to send data. Usually, it also has an **API Key** for security.  
