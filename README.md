@@ -110,6 +110,7 @@ In this task i learnt that- ESP32 is a low-cost microcontroller with built-in Wi
 - It has multiple GPIO pins that can be programmed to control LEDs, motors, or sensors.
 - The ESP32 can host a web server, which allows me to interact with hardware through a browser.
   The first step was to upload the required code to the ESP32. Then, I entered the mobile hotspot Wi-Fi credentials in the code so that the ESP32 could connect to the network. After uploading the code, the ESP32 generated an IP address. By entering this IP address into a web browser, a web page opened where I could toggle the LEDs on and off.
+  ![Led](./Led.jpeg)
 
 
 # Task 12 : Soldering
