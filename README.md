@@ -183,7 +183,7 @@ Using this expression, I built the circuit with an AND gate and a NOT gate. Push
 ![Certificate](./Certificate.jpeg)
 
 # Task 16: Datasheet Report writing
-# L293D Motor Driver – Report
+# L293D Motor Driver
 
 ## Objective
 To study the datasheet of the L293D motor driver IC and understand its working, internal structure, and concepts such as PWM and H-Bridge used in motor control.
