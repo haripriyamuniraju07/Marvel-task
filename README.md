@@ -90,4 +90,17 @@ Basic techniques to control DC motor using L298N motor driver
 - Higher duty cycle(The duty cycle is the percentage of time a signal stays ON (active/high) compared to the total time of one cycle) → Faster motor  
 - Lower duty cycle → Slower motor  
 ![Dc motor](./DC_motor.jpeg)
+## Components Used
+- Arduino UNO
+- L298N Motor Driver Module
+- DC Motor
+- RPS
+ ## Working:
+- The Arduino sends digital signals to the motor driver.
+- The motor driver controls:
+- Direction by switching polarity
+- Speed using PWM (Pulse Width Modulation)
+- The regulated power supply ensures a constant voltage, allowing smooth motor operation.
+ 
+
 
