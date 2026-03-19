@@ -21,6 +21,14 @@ The server gets your request, checks who you are, and looks in its database to f
 The server sends the data back, usually in **JSON**(Java script object notation) format. JSON is just text that is easy for computers to read.
 
 ![Weather App Screenshot](./weather_app.png)
+# Task 3 : Git hub
+ ## Objective
+To learn about GitHub Actions, Issues, and Pull Requests by exploring a given repository.
+## Report
+In this task, I explored the given GitHub repository and read the README file. I learned how GitHub Actions automate tasks, how Issues are used to track problems, and how Pull Requests are used to make changes. I completed the given tasks and understood basic GitHub workflows.
+## Link to my git :
+[Link Text](https://github.com/UVCE-Marvel/git-task/pull/284)
+
 # Task 4: Command line on ubuntu
 # Objectives
 
