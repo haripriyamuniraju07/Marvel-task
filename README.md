@@ -74,9 +74,8 @@ I successfully signed up on the Tinkercad platform by creating a new account.And
 # Objective:
 The objective of this task is to explore and implement basic techniques for controlling DC motors using an Arduino UNO and the L298N H-Bridge motor driver. 
 # Report :
-Basic techniques to control DC motor using L298N motor driver
+ In this task I learnt Basic techniques to control DC motor using L298N motor driver
 ## 1. Direction Control (H-Bridge)
-
 - Used to rotate motor **forward or backward**
 - Achieved using an **H-Bridge circuit** (like L298N)
 ## **Concept:**
