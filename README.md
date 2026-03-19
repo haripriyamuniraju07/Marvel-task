@@ -227,3 +227,76 @@ In L293D:
 4. Enable pin controls motor ON/OFF and speed using PWM.
 The L293D motor driver IC simplifies motor control by integrating H-Bridge circuits and supporting PWM for speed control. It is widely used due to its simplicity and effectiveness.
    ![L293](./L293.jpeg)
+# Task 17:VR
+# Task 17: Introduction to Virtual Reality (VR)
+
+## Objective
+
+- To understand the concept of Virtual Reality (VR)  
+- To study the difference between Virtual Reality (VR) and Augmented Reality (AR)  
+- To explore current trends in AR/VR technology  
+- To learn about the technology stack used in VR/AR  
+- To identify Indian companies working in the AR/VR field  
+## Report
+### 1. Introduction to Virtual Reality (VR)
+
+Virtual Reality (VR) is a technology that creates a fully immersive digital environment. It allows users to interact with a computer-generated world using devices such as VR headsets, sensors, and controllers.
+
+In VR, users are completely separated from the real world and experience a simulated environment. It is widely used in gaming, education, healthcare, and industrial training.
+
+### 2. Difference Between VR and AR
+
+| Feature | Virtual Reality (VR) | Augmented Reality (AR) |
+|--------|---------------------|------------------------|
+| Environment | Fully virtual | Real world + digital overlay |
+| Immersion | Fully immersive | Partially immersive |
+| Devices | VR headsets | Smartphones / AR glasses |
+| Interaction | Only virtual world | Real + virtual objects |
+| Usage | Gaming, simulation | Navigation, retail, training |
+
+**Key Difference:**  
+VR replaces the real world completely, whereas AR enhances the real world by adding digital elements.
+### 3. Technology Stack in VR/AR
+
+#### Hardware Components
+- VR headsets  
+- Motion tracking sensors  
+- Cameras and depth sensors  
+- Controllers and haptic devices  
+
+#### Software Components
+- Game engines (Unity, Unreal Engine)  
+- 3D modeling tools (Blender, Maya)  
+- AR/VR SDKs (ARCore, ARKit, OpenXR)  
+- Web technologies (WebXR)  
+
+#### Supporting Technologies
+- Artificial Intelligence (AI)  
+- Internet of Things (IoT)  
+- Cloud computing  
+- 5G networks  
+
+### 4. Trends in VR and AR
+- Integration of AI for smarter interaction  
+- Growth of metaverse and virtual environments  
+- Increasing use in education and healthcare  
+- Development of lightweight AR devices  
+- Use of 5G for real-time performance  
+- Expansion in training and simulation industries  
+### 5. Indian Companies in AR/VR
+
+- Tata Elxsi  
+- Simulanis  
+- Imaginate  
+- Gamitronics  
+- Scapic  
+- Queppelin  
+
+These companies are contributing to AR/VR development in areas like training, gaming, e-commerce, and industrial applications.
+
+### 6. Advantages and Challenges
+#### Advantages
+- Immersive and interactive experience  
+- Safe simulation for training  
+- Better understanding through visualization  
+- High user engagement  
