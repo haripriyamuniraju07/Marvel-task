@@ -1,5 +1,14 @@
 # Marvel-task
 
+# Task 1: 3D Printer:
+ ## Objective:
+To understand the working of a 3D printer, learn about STL files, slicing software, and important printer settings.
+
+## Report
+In this task, I studied the basic working of a 3D printer using online resources. I learned that 3D printers work on the principle of additive manufacturing, where objects are created layer by layer using materials like PLA or ABS. I understood that an STL file is a 3D model file that contains the shape of the object to be printed.
+I studied important printer settings like bed temperature, which helps in proper adhesion of the print to the bed, and infill density, which controls how solid the object is. I also learned about other settings such as  print speed, and nozzle temperature.
+Finally, I went through the standard operating procedures (SOPs) for safely using a 3D printer, including proper setup, handling, and maintenance. This task helped me gain a clear understanding of the complete 3D printing process.
+
 # Task 2:API
 
 # Objective
