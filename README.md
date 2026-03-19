@@ -102,4 +102,20 @@ The objective of this task is to explore and implement basic techniques for cont
 - The regulated power supply ensures a constant voltage, allowing smooth motor operation.
  
 [Click to watch video](./DC_MOTOR.mp4)
+# Task 11: LED Toggle using ESP32
+# Objective:
+To design and implement a standalone web server using the ESP32 microcontroller that allows users to control an LED connected to its GPIO pins through a simple web interface
+# Report:
+In this task i learnt that- ESP32 is a low-cost microcontroller with built-in Wi-Fi and Bluetooth.
+- It has multiple GPIO pins that can be programmed to control LEDs, motors, or sensors.
+- The ESP32 can host a web server, which allows me to interact with hardware through a browser.
+  The first step was to upload the required code to the ESP32. Then, I entered the mobile hotspot Wi-Fi credentials in the code so that the ESP32 could connect to the network. After uploading the code, the ESP32 generated an IP address. By entering this IP address into a web browser, a web page opened where I could toggle the LEDs on and off.
+
+
+# Task 12 : Soldering
+The objective of this task is to gain hands-on familiarity with soldering equipment and techniques by learning the function and safe usage of tools such as solder, soldering iron, soldering wick, and flux.
+# Report:
+
+Soldering is the process of joining two or more metal surfaces using a filler metal (called solder) that melts at a lower temperature than the base metals, creating a durable electrical or mechanical bond.I learned about soldering tools such as the soldering iron, solder wire, flux, and soldering wick. Under supervision, I performed basic soldering on a perf board.
+![Soldering](./Soldering.jpeg)
 
