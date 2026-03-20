@@ -5,9 +5,22 @@
 To understand the working of a 3D printer, learn about STL files, slicing software, and important printer settings.
 
 ## Report
-In this task, I studied the basic working of a 3D printer using online resources. I learned that 3D printers work on the principle of additive manufacturing, where objects are created layer by layer using materials like PLA or ABS. I understood that an STL file is a 3D model file that contains the shape of the object to be printed.
-I studied important printer settings like bed temperature, which helps in proper adhesion of the print to the bed, and infill density, which controls how solid the object is. I also learned about other settings such as  print speed, and nozzle temperature.
-Finally, I went through the standard operating procedures (SOPs) for safely using a 3D printer, including proper setup, handling, and maintenance. This task helped me gain a clear understanding of the complete 3D printing process.
+In this task, I studied the basic working of a 3D printer using online resources. I learned that 3D printers work on the principle of additive manufacturing, where objects are created layer by layer using materials like PLA . I understood that an STL file is a 3D model file that contains the shape of the object to be printed.
+I studied important printer settings like bed temperature 
+(- Purpose: Helps the first layer stick properly to the print bed.
+- Effect: If the bed is too cool, prints may warp or peel off. If it’s too hot, the bottom layer can get overly soft and messy.
+- Typical Ranges:
+- PLA: ~50–60 °C)
+  which helps in proper adhesion of the print to the bed, and infill density(Infill density in 3D printing determines how solid or hollow your printed object will be. Low infill (10–20%) is ideal for decorative items, while medium infill (30–50%) balances strength and efficiency, and high infill (60–100%) is used for functional, load-bearing parts).
+, which controls how solid the object is. I also learned about other settings such as  print speed(- How fast the printer’s nozzle moves while extruding filament.
+- Typical Range: 40–60 mm/s for standard prints.)
+, and nozzle temperature(how well the filament melts and flows)(200 deg c)
+Finally, I went through the standard operating procedures (SOPs)(- Pre-Operation & Safety Setup
+   Ensure safe working conditions and equipment readiness.
+  - Software Preparation (Slicing)
+ Convert 3D models into printer-ready instructions.
+   - Printing Process
+   Execute the actual print with monitoring.
 
 # Task 2:API
 
