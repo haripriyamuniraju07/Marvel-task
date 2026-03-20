@@ -39,14 +39,13 @@ Finally, I went through the standard operating procedures (SOPs)(
 API stands for Application Programming Interface.It acts as a bridge between different software applications.
 ## How an API Works?
 
-**The Request:**  
-The client sends a message to a URL (the Endpoint). This request has a **Method** like `GET` to get data or `POST` to send data. Usually, it also has an **API Key** for security.  
+- Website sends request → Give me weather of Bangalore
 
-**Processing:**  
-The server gets your request, checks who you are, and looks in its database to find the info you asked for.  
+- API takes this request
 
-**The Response:**  
-The server sends the data back, usually in **JSON**(Java script object notation) format. JSON is just text that is easy for computers to read.
+- Server finds the data
+
+API sends back → temperature
 
 ![Weather App Screenshot](./weather_app.png)
 # Task 3 : Git hub
