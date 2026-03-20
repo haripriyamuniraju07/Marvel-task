@@ -17,7 +17,8 @@ Typical Ranges:
 - Typical Range: 40–60 mm/s for standard prints.)
 , and nozzle temperature(how well the filament melts and flows)(200 deg c)
 
-Finally, I went through the standard operating procedures (SOPs)(- Pre-Operation & Safety Setup:
+Finally, I went through the standard operating procedures (SOPs)
+( - Pre-Operation & Safety Setup:
    Ensure safe working conditions and equipment readiness.
   - Software Preparation (Slicing):
  Convert 3D models into printer-ready instructions.
