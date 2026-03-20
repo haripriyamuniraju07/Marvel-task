@@ -13,11 +13,13 @@ Typical Ranges:
  PLA: ~50–60 °C)
   which helps in proper adhesion of the print to the bed, and infill density(Infill density in 3D printing determines how solid or hollow your printed object will be. - Low infill (10–20%) is ideal for decorative items, -  while medium infill (30–50%) balances strength and efficiency, - and high infill (60–100%) is used for functional, load-bearing parts).
 
- I also learned about other settings such as  print speed(- How fast the printer’s nozzle moves while extruding filament.
+ I also learned about other settings such as  print speed
+ (- How fast the printer’s nozzle moves while extruding filament.
 - Typical Range: 40–60 mm/s for standard prints.)
 , and nozzle temperature(how well the filament melts and flows)(200 deg c)
 
 Finally, I went through the standard operating procedures (SOPs)
+
 ( - Pre-Operation & Safety Setup:
    Ensure safe working conditions and equipment readiness.
   - Software Preparation (Slicing):
