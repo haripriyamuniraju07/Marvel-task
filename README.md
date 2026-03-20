@@ -16,6 +16,7 @@ Typical Ranges:
  I also learned about other settings such as  print speed(- How fast the printer’s nozzle moves while extruding filament.
 - Typical Range: 40–60 mm/s for standard prints.)
 , and nozzle temperature(how well the filament melts and flows)(200 deg c)
+
 Finally, I went through the standard operating procedures (SOPs)(- Pre-Operation & Safety Setup:
    Ensure safe working conditions and equipment readiness.
   - Software Preparation (Slicing):
