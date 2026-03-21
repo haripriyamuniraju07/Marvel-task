@@ -175,9 +175,14 @@ Soldering is the process of joining two or more metal surfaces using a filler me
 ## Objective
 To design and implement a 555 timer–based astable multivibrator circuit with a duty cycle of 60%.
 ## Report:
-In this task, a 555 timer IC was used to design an astable multivibrator circuit that generates a continuous square wave output. The circuit was assembled on a breadboard using appropriate values of resistors and a capacitor to achieve a duty cycle close to 60%. The connections were made according to the standard astable configuration .The duty cycle was controlled by selecting suitable resistor values. The circuit functioned successfully, producing a stable waveform with the desired duty cycle. This task helped in understanding the working of the 555 timer in astable mode and its practical applications.
+In this task, a 555 timer IC was used to design an astable multivibrator circuit that generates a continuous square wave output. The circuit was assembled on a breadboard using appropriate values of resistors and a capacitor to achieve a duty cycle close to 60%. The connections were made according to the standard astable configuration .The duty cycle was controlled by selecting suitable resistor values. The circuit functioned successfully, producing a stable waveform with the desired duty cycle. This task helped in understanding the working of the 555 timer in astable mode.
 ![555](./5551.jpeg)
 ![555](./5552.jpeg)
+# Issue faced:
+- **First time**, I used a **104 capacitor (0.1 µF)**.  
+  I did not get 60% duty cycle
+- **Second time**, I used a **103 capacitor (0.01 µF)**.  
+I got 60% duty cycle.
 
 # Task 14: K map
 # **Burglar Alarm using Logic Circuits**
