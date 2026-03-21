@@ -126,9 +126,7 @@ The objective of this task is to explore and implement basic techniques for cont
 - Used to rotate motor **forward or backward**
 - Achieved using an **H-Bridge circuit** (like L298N)
 ## **Concept:**
-- IN1 HIGH, IN2 LOW → Forward  
-- IN1 LOW, IN2 HIGH → Reverse  
-- Both same → Stop  
+![H bridge](./H_bridge.jpeg)
 ## 2. Speed Control using PWM (Pulse Width Modulation)
 - Controls motor speed by varying voltage effectively  
 - Done using Arduino PWM pins  
