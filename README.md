@@ -83,6 +83,10 @@ In this task, I explored the given GitHub repository and read the README file. I
 # Task 06 - The Matrix Puzzle — Decode with NumPy & Reveal the Image
 ## Objective:
 The objective of this task is to understand how NumPy can be used to manipulate matrices and decode a scrambled matrix to reveal a hidden image using visualization with Matplotlib.
+## Report:
+For the given matrix.
+- Manipulated it using NumPy library functions.
+- Plotted it using matplotlib functions.
 ![Numpy](./Numpy.jpeg)
 
 # Task 7:Create a portfolio webpage
