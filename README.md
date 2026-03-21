@@ -39,13 +39,13 @@ Finally, I went through the standard operating procedures (SOPs)(
 API stands for Application Programming Interface.It acts as a bridge between different software applications.
 ## How an API Works?
 
-- Website sends request → Give me weather of Bangalore
+- Website sends request → Give me weather of Bengaluru
 
 - API takes this request
 
 - Server finds the data
 
-API sends back → temperature
+ - API sends back → temperature
 
 ![Weather App Screenshot](./weather_app.png)
 # Task 3 : Git hub
