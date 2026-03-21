@@ -66,15 +66,15 @@ In this task, I explored the given GitHub repository and read the README file. I
 - Change directory into that folder.
 - Create a blank file without using any text editor.
 - List the files in that folder.
-- Create 2600 folders in this folder, where each folder is named like `M90` or `B56`.
+
+
+   # Report
   
-  # Report
-  
-- Created a folder named `test`.
-- Changed directory into the `test` folder.
-- Created a blank file without using any text editor.
-- Listed the files in the folder to verify the blank file.
-- Created 2600 folders in the folder, each named like `M90` or `B56`.
+- Created a folder named `test`.(mkdir → make directory)
+- for loop → automate repetitive folder creation
+- Changed directory into the `test` folder. (cd → change directory)
+- Created a blank file without using any text editor.-( touch → create empty file)
+- Listed the files in the folder to verify the blank file.- (ls → list files)
 - ![Ubuntu Screenshot](./Ubuntu1.jpeg)
 ![Ubuntu Screenshot](./Ubuntu2.jpeg)
 ![Ubuntu Screenshot](./ubuntu3.jpeg)
