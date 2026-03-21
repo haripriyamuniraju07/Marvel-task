@@ -163,7 +163,7 @@ In this task i learnt that- ESP32 is a low-cost microcontroller with built-in Wi
 The objective of this task is to gain hands-on familiarity with soldering equipment and techniques by learning the function and safe usage of tools such as solder, soldering iron, soldering wick, and flux.
 # Report:
 
-Soldering is the process of joining two or more metal surfaces using a filler metal (called solder) that melts at a lower temperature than the base metals, creating a durable electrical or mechanical bond.I learned about soldering tools such as the soldering iron, solder wire, flux, and soldering wick. Under supervision, I performed basic soldering on a perf board.
+Soldering is the process of joining two or more metal surfaces using a filler metal (called solder) that melts at a lower temperature than the base metals, creating a durable electrical or mechanical bond.I learned about soldering tools such as the soldering iron(soldering iron consists primarily of a copper tip (or bit) plated with iron, nickel, or chromium), solder wire(Soldering wire is made of tin and lead(60:40), flux(it is used as cleaning agent), and soldering wick(Solder wick, also known as desoldering braid, is a specialized tool used in electronics soldering to remove excess solder). Under supervision, I performed basic soldering on a perf board.
 ![Soldering](./Soldering.jpeg)
 # Task 13: 555
 ## Objective
