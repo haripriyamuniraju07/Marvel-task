@@ -113,6 +113,8 @@ In this task, I learned about Tinkercad, which is an online platform used for 3D
 I successfully signed up on the Tinkercad platform by creating a new account.And built a simple radar system using an ultrasonic sensor that detects objects and displays distance
 
 ![Ultrasonic sensor](./Ultrasonic.jpeg)
+
+
 [Link](https://www.tinkercad.com/things/gGulETGUUu9-amazing-hillar/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 # Task 10: Speed control of DC motor
