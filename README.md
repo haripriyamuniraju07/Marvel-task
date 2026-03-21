@@ -48,6 +48,8 @@ API stands for Application Programming Interface.It acts as a bridge between dif
  - API sends back → temperature
 
 ![Weather App Screenshot](./weather_app.png)
+
+## (Website → API → Server → API → Website)
 # Task 3 : Git hub
  ## Objective
 To learn about GitHub Actions, Issues, and Pull Requests by exploring a given repository.
