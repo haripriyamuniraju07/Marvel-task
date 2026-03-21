@@ -165,6 +165,12 @@ The objective of this task is to gain hands-on familiarity with soldering equipm
 
 Soldering is the process of joining two or more metal surfaces using a filler metal (called solder) that melts at a lower temperature than the base metals, creating a durable electrical or mechanical bond.I learned about soldering tools such as the soldering iron(soldering iron consists primarily of a copper tip (or bit) plated with iron, nickel, or chromium), solder wire(Soldering wire is made of tin and lead(60:40), flux(it is used as cleaning agent), and soldering wick(Solder wick, also known as desoldering braid, is a specialized tool used in electronics soldering to remove excess solder). Under supervision, I performed basic soldering on a perf board.
 ![Soldering](./Soldering.jpeg)
+# Precautions:
+- Keep the soldering iron in a stand when not in use
+- Do not touch the hot tip
+- Work in a well-ventilated area
+- Avoid inhaling fumes
+- Use proper temperature (avoid overheating)
 # Task 13: 555
 ## Objective
 To design and implement a 555 timer–based astable multivibrator circuit with a duty cycle of 60%.
