@@ -26,6 +26,7 @@ Finally, I went through the standard operating procedures (SOPs)(
    - Printing Process:
    Execute the actual print with monitoring.
 )
+[3d](./3d_printer_types.jpeg)
 
 # Task 2:API
 
