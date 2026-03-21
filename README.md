@@ -219,7 +219,7 @@ Let:
 
 A = D · K̅
 ## **Report**
-In this task, I designed a burglar alarm system using logic gates. I first created a truth table based on door and key conditions. Then, I used a Karnaugh map to simplify the Boolean expression. The simplified result showed that the alarm turns ON only when the door is open and the key is not pressed.  
+I first created a truth table based on door and key conditions. Then, I used a Karnaugh map to simplify the Boolean expression. The simplified result showed that the alarm turns ON only when the door is open and the key is not pressed.  
 
 # Task 15 : Active participation:
 ![Certificate](./Certificate.jpeg)
