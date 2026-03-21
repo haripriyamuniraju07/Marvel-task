@@ -57,6 +57,7 @@ To learn about GitHub Actions, Issues, and Pull Requests by exploring a given re
 In this task, I explored the given GitHub repository and read the README file. I learned how GitHub Actions automate tasks, how Issues are used to track problems, and how Pull Requests are used to make changes. I completed the given tasks and understood basic GitHub workflows.
 ## Link to my git :
 [Link Text](https://github.com/UVCE-Marvel/git-task/pull/284)
+![Git hub](./Github2.jpg)
 
 # Task 4: Command line on ubuntu
 # Objectives
