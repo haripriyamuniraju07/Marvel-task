@@ -132,7 +132,8 @@ The objective of this task is to explore and implement basic techniques for cont
 - Done using Arduino PWM pins  
 ## **Concept:**
 - Higher duty cycle(The duty cycle is the percentage of time a signal stays ON (active/high) compared to the total time of one cycle) → Faster motor  
-- Lower duty cycle → Slower motor  
+- Lower duty cycle → Slower motor
+- ![PWM](./PWM.jpeg)
 ![Dc motor](./DC_motor.jpeg)
 ## Components Used
 - Arduino UNO
