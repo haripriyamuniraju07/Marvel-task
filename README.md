@@ -7,8 +7,7 @@ To understand the working of a 3D printer, learn about STL files, slicing softwa
 ## Report
 In this task, I studied the basic working of a 3D printer using online resources. I learned that 3D printers work on the principle of additive manufacturing, where objects are created layer by layer using materials like PLA . I understood that an STL file is a 3D model file that contains the shape of the object to be printed.
 I studied important printer settings like bed temperature 
-( Purpose: Helps the first layer stick properly to the print bed.
-Effect: If the bed is too cool, prints may warp or peel off. If it’s too hot, the bottom layer can get overly soft and messy.
+( If the bed is too cool, prints may warp or peel off. If it’s too hot, the bottom layer can get overly soft and messy.
 Typical Ranges:
  PLA: ~50–60 °C)
   which helps in proper adhesion of the print to the bed, and infill density(Infill density in 3D printing determines how solid or hollow your printed object will be. - Low infill (10–20%) is ideal for decorative items, -  while medium infill (30–50%) balances strength and efficiency, - and high infill (60–100%) is used for functional, load-bearing parts).
